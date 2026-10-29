@@ -1,0 +1,16 @@
+{
+  "name": "MOH Studio",
+  "short_name": "MOH Studio",
+  "description": "Four-track podcast editor with one-tap Clean Up, seasonal and holiday sound effects, and MP3, WAV and 8 kHz phone WAV export.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#080E1C",
+  "theme_color": "#080E1C",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
